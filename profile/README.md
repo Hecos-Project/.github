@@ -1,7 +1,7 @@
 # 🌌 Zentra Core | The Future of Private, Modular AI
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zentra-Core/zentra-core.github.io/main/assets/logo.png" width="400">
+  <img src="https://raw.githubusercontent.com/Zentra-Core/zentra-core.github.io/sviluppo/assets/Zentra_Core_Logo.jpg" width="400">
 </p>
 
 
