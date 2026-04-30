@@ -1,7 +1,7 @@
 # 🌌 Hecos | Helping Companion System
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hecos-Core/hecos-core.github.io/main/hecos/assets/Hecos_Logo.jpg" width="400">
+  <img src="https://raw.githubusercontent.com/Hecos-Core/hecos-core.github.io/main/hecos/assets/Hecos_Logo_Banner.png" width="400">
 </p>
 
 Welcome to the official home of **Hecos**. We are developing a local-first, modular architecture designed to bring high-level autonomous intelligence to private environments.
