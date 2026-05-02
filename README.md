@@ -1,30 +1,30 @@
-# 🌌 Zentra Core | The Future of Private, Modular AI
+# 🌌 Hecos | The Soul of Private, Modular Intelligence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zentra-Core/zentra-core.github.io/main/assets/Zentra_Core_Logo.jpg" width="400">
+  <img src="https://raw.githubusercontent.com/Hecos-Project/hecos/main/hecos/assets/Hecos_Logo_Banner.png" width="600">
 </p>
 
-Welcome to the official home of **Zentra Core**. We are developing a local-first, modular architecture designed to bring high-level intelligence to private environments.
+Welcome to the official home of **Hecos**. We are developing a local-first, modular architecture designed to bring high-level intelligence and supportive companionship to private environments.
 
 ### 🏛️ Our Mission
-To create a seamless, private, and secure bridge between human intent and machine execution. Zentra Core is built to be the "brain" behind diverse environments—from smart living spaces to autonomous vehicles and advanced robotics.
+To create a seamless, private, and secure bridge between human intent and machine execution. Hecos is built to be the "soul" behind diverse environments—from personal assistant setups and smart living spaces to autonomous integration and advanced robotics.
 
 ---
 
 ### 🚀 Key Focus Areas
-* **Modular Intelligence:** A "plug-and-play" system where users can add or remove capabilities (Home, Vehicle, Automation).
-* **Privacy by Design:** Everything stays local. Your data, your rules. No mandatory cloud dependency.
-* **Interoperability:** Designed to communicate with diverse hardware, from IoT devices to robotics.
+* **Modular Intelligence:** A "plug-and-play" system where users can easily expand capabilities, add new "Souls," and personalize their experience.
+* **Privacy by Design:** Everything stays local. No cloud dependency required. Your data, your rules, your privacy.
+* **Supportive Presence:** Hecos is designed to be more than just a tool; it is a system built to be always by your side, serving your needs with a unique "system soul."
 
-### 🛠️ Project Status: Ground Zero
-Zentra Core is currently in **Active Development (v0.9.4)**. We are focusing on stabilizing the main logic before releasing specialized modules.
+### 🛠️ Project Status: Runtime Alpha
+Hecos is currently in **v0.19.1 - Runtime Alpha**. We are focusing on stabilizing the core architecture, finalizing the rebranding, and refining the "Companion" interaction model.
 
 ---
 
 ### 🤝 Join the Evolution
-We believe in open collaboration. Whether you are a developer, a designer, or a visionary, you are welcome at Zentra.
+We believe in open collaboration. Whether you are a developer, a designer, or a visionary, you are welcome in the Hecos ecosystem.
 
-* **Contact:** zentra.core.systems@gmail.com
+* **Organization:** [Hecos-Project](https://github.com/Hecos-Project)
 * **License:** MIT License
 
 > *"The future isn't just automated. It's yours."*
