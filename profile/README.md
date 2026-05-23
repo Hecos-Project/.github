@@ -4,20 +4,20 @@
   <img src="https://raw.githubusercontent.com/Hecos-Project/hecos/main/hecos/assets/Hecos_Logo_Banner.png" width="600">
 </p>
 
-Welcome to the official home of **Hecos**. We are developing a local-first, modular architecture designed to bring high-level intelligence and supportive companionship to private environments.
+Welcome to the official home of **Hecos**. We are developing a modular AI Operating Layer designed to bring high-level intelligence, advanced desktop automation, and supportive companionship to private environments.
 
 ### 🏛️ Our Mission
-To create a seamless, private, and secure bridge between human intent and machine execution. Hecos is built to be the "soul" behind diverse environments—from personal assistant setups and smart living spaces to autonomous integration and advanced robotics.
+To create a seamless, fluid, and secure bridge between human intent and machine execution. Hecos is built to act as the "soul" behind diverse setups—from personal assistant environments and smart living spaces to advanced digital automation and autonomous workflows.
 
 ---
 
 ### 🚀 Key Focus Areas
-* **Modular Intelligence:** A "plug-and-play" system where users can easily expand capabilities, add new "Souls," and personalize their experience.
-* **Privacy by Design:** Everything stays local. No cloud dependency required. Your data, your rules, your privacy.
-* **Supportive Presence:** Hecos is designed to be more than just a tool; it is a system built to be always by your side, serving your needs with a unique "system soul."
+* **Modular Intelligence:** A dynamic "plug-and-play" system. Users can easily expand capabilities, manage interactive widgets, add new AI "Personas", and configure advanced tools via the centralized Control Room.
+* **Local & Cloud Fluidity:** A hybrid approach that gives you full control. Effortlessly switch between completely private Local LLMs (Ollama/Kobold) and powerful Cloud backends. Your data, your rules.
+* **Supportive Presence:** Hecos is designed to be more than just a tool. It is an agentic system built to be consistently by your side, managing files (Drive), media (Vault), schedules, and executing complex tasks using its native system soul.
 
-### 🛠️ Project Status: Runtime Alpha
-Hecos is currently in **v0.19.1 - Runtime Alpha**. We are focusing on stabilizing the core architecture, finalizing the rebranding, and refining the "Companion" interaction model.
+### 🛠️ Project Status: Beta Transition
+Hecos is currently in **v0.23.0 - Beta Transition**. We are focusing on solidifying the grid UI architecture, expanding the native API capabilities, and refining the "Companion" interaction model.
 
 ---
 
