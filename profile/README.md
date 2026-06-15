@@ -4,27 +4,50 @@
   <img src="https://raw.githubusercontent.com/Hecos-Project/hecos/main/hecos/assets/Hecos_Logo_Banner.png" width="600">
 </p>
 
-Welcome to the official home of **Hecos**. We are developing a modular AI Operating Layer designed to bring high-level intelligence, advanced desktop automation, and supportive companionship to private environments.
-
-### 🏛️ Our Mission
-To create a seamless, fluid, and secure bridge between human intent and machine execution. Hecos is built to act as the "soul" behind diverse setups—from personal assistant environments and smart living spaces to advanced digital automation and autonomous workflows.
+<p align="center">
+  <strong>💡 Hecos is your everyday companion.</strong><br>
+  Talk to it, command it, or let it run on its own — it manages your computer, sends messages, automates workflows, and switches personality to act as a butler, a friend, or whatever you need.<br>
+  <em>No AI required: Hecos works just as well through automation flows and direct commands.</em>
+</p>
 
 ---
 
-### 🚀 Key Focus Areas
-* **Modular Intelligence:** A dynamic "plug-and-play" system. Users can easily expand capabilities, manage interactive widgets, add new AI "Personas", and configure advanced tools via the centralized Control Room.
-* **Local & Cloud Fluidity:** A hybrid approach that gives you full control. Effortlessly switch between completely private Local LLMs (Ollama/Kobold) and powerful Cloud backends. Your data, your rules.
-* **Supportive Presence:** Hecos is designed to be more than just a tool. It is an agentic system built to be consistently by your side, managing files (Drive), media (Vault), schedules, and executing complex tasks using its native system soul.
+### 🏛️ What is Hecos?
 
-### 🛠️ Project Status: Beta Transition
-Hecos is currently in **v0.23.0 - Beta Transition**. We are focusing on solidifying the grid UI architecture, expanding the native API capabilities, and refining the "Companion" interaction model.
+Hecos is a **modular AI Operating Layer** — not a chatbot, not a simple agent. It is a full-stack platform that bridges natural language, desktop automation, and scheduled workflows into a single, unified system.
+
+You can interact with it by voice or text, trigger actions manually through **Direct Commands**, build complex pipelines with the visual **Flows Engine**, or simply let it run in the background as your always-on companion. Everything works locally, with full privacy, and no cloud dependency required.
+
+---
+
+### 🚀 Key Capabilities
+
+* **🗣️ Natural Conversation & Voice** — Talk to Hecos like a person. It understands context, remembers your preferences, and responds with real-time text-to-speech.
+* **⚡ Direct Commands** — Trigger any system action instantly with a keyword command, no AI reasoning required. Fast, predictable, offline-first.
+* **🔀 Flows Automation Engine** — A visual node-based editor for building complex multi-step automations: schedules, triggers, conditions, and AI-powered steps — all in one canvas.
+* **🧩 Modular Plugin System** — Enable or disable capabilities on the fly: file management, media control, web search, email, browser automation, reminders, and more.
+* **📋 Lists & Task Management** — Native list management fully integrated with voice commands and the automation engine.
+* **🌐 MCP Native Bridge** — Connect to any Model Context Protocol server for instant access to remote databases, APIs, and external toolkits.
+* **🤖 Agentic Loop** — Chain-of-Thought multi-step reasoning with self-correction for complex, autonomous task execution.
+* **🔒 Local-first & Privacy-sovereign** — Runs entirely on your machine with local LLMs (Ollama/Kobold). Cloud providers available when you want extra power.
+* **🎭 Personality Switching** — Swap between AI personas in real time: a professional butler, a casual friend, a study partner — the same system, a different soul.
+
+---
+
+### 🛠️ Project Status
+
+Hecos is currently at **v0.26.0 — First Full Release**. The core architecture is stable, the plugin ecosystem is actively expanding, and the Flows automation engine is production-ready.
 
 ---
 
 ### 🤝 Join the Evolution
+
 We believe in open collaboration. Whether you are a developer, a designer, or a visionary, you are welcome in the Hecos ecosystem.
 
-* **Organization:** [Hecos-Project](https://github.com/Hecos-Project)
-* **License:** MIT License
+* 🌐 **Website:** [hecos-project.github.io](https://hecos-project.github.io)
+* 📖 **Documentation:** [Hecos Wiki](https://github.com/Hecos-Project/Hecos/wiki)
+* 📺 **YouTube:** [@HecosProject](https://www.youtube.com/@HecosProject)
+* 📧 **Contact:** hecos.project@gmail.com
+* **License:** AGPL v3
 
 > *"The future isn't just automated. It's yours."*
