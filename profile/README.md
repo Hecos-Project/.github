@@ -46,7 +46,7 @@ We believe in open collaboration. Whether you are a developer, a designer, or a 
 
 * 🌐 **Website:** [hecos-project.github.io](https://hecos-project.github.io)
 * 📖 **Documentation:** [Hecos Wiki](https://github.com/Hecos-Project/Hecos/wiki)
-* 📺 **YouTube:** [@HecosProject](https://www.youtube.com/@HecosProject)
+* 📺 **YouTube:** [@HecosProject](https://www.youtube.com/@Hecos-Project)
 * 📧 **Contact:** hecos.project@gmail.com
 * **License:** AGPL v3
 
