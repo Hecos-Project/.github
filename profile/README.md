@@ -36,7 +36,7 @@ You can interact with it by voice or text, trigger actions manually through **Di
 
 ### 🛠️ Project Status
 
-Hecos is currently at **v0.26.0 — First Full Release**. The core architecture is stable, the plugin ecosystem is actively expanding, and the Flows automation engine is production-ready.
+Hecos is currently in beta release. The core architecture is stable, the plugin ecosystem is actively expanding, and the Flows automation engine is production-ready.
 
 ---
 
