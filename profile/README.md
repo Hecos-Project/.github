@@ -1,7 +1,7 @@
 # 🌌 Hecos | The Soul of Private, Modular Intelligence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hecos-Project/hecos/main/hecos/assets/Hecos_Logo_Banner.png" width="600">
+  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/Urania_9800_Logo.png" width="600">
 </p>
 
 <p align="center">
