@@ -38,7 +38,7 @@ At its heart lies the **Hecos Package Manager (HPM)**, a centralized architectur
 A fundamental capability of Hecos is its native **Personality Switching**. Hecos isn't just a cold, rigid assistant — it adapts its behavior, tone, and character based on the persona you load. Each persona is programmed to act differently and fulfill a unique role in your daily life.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hecos-Project/Hecos/main/hecos/assets/Urania_9800_Logo.png" width="400">
+  <img src="https://raw.githubusercontent.com/Hecos-Project/hecos/main/hecos/assets/Urania_9800_Logo.png" width="400">
   <br>
   <em>Urania 9800, the official Hecos Mascot and your everyday friendly companion.</em>
 </p>
