@@ -54,6 +54,21 @@ You can hot-swap these personas at any time, changing not just the voice and ton
 
 ---
 
+### 🖥️ The Hecos WebUI Overview
+
+Hecos operates primarily through its advanced WebUI — a sophisticated interface elegantly divided into five main pillars: the **System Icontray**, the **Chat**, the **Central Hub**, the **Control Room**, and **Hecos Drive**. 
+
+<p align="center">
+  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/003_HecosChat_001.png" width="800">
+  <br>
+  <em>The main Chat interface.</em>
+</p>
+
+For a complete visual tour of all the interface components, screenshots, and deep-dive explanations, please visit the **Visual Tour** on our official website:
+👉 **[Take the WebUI Tour (hecos-project.github.io/tour.html)](https://hecos-project.github.io/tour.html)**
+
+---
+
 ### 🛠️ Project Status
 
 Hecos is currently in beta release. The core architecture is stable, the **HPM ecosystem** is actively expanding, and the Flows automation engine is production-ready.
