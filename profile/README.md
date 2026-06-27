@@ -112,6 +112,19 @@ Hecos operates primarily through its advanced WebUI — a sophisticated interfac
 
 ---
 
+### 🛍️ The Hecos Store
+
+Hecos is designed to grow with you. Thanks to the **Hecos Package Manager (HPM)**, the system is infinitely expandable. Visit the official store to download new capabilities securely:
+
+* **Plugins & Core Modules:** Add native integrations like email clients, weather tracking, calendar sync, and image generation.
+* **Control Room Widgets:** Expand your system dashboard with new real-time monitoring tools.
+* **Autonomous Apps:** Install full web applications that run entirely locally within the Hecos ecosystem.
+* **Personas & Themes:** Customize the look, feel, and "soul" of your agent.
+
+👉 **[Explore the Hecos Store (hecos-project.github.io/store/)](https://hecos-project.github.io/store/index.html)**
+
+---
+
 ### 🛠️ Project Status
 
 Hecos is currently in beta release. The core architecture is stable, the **HPM ecosystem** is actively expanding, and the Flows automation engine is production-ready.
