@@ -67,6 +67,14 @@ Hecos operates primarily through its advanced WebUI — a sophisticated interfac
 <br>
 
 <p align="center">
+  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/004_HecosChat_Direct_Commands.png" width="800">
+  <br>
+  <em><strong>Direct Commands:</strong> Bypass the AI completely. Use slash commands like `/hpm search` to trigger actions with zero latency.</em>
+</p>
+
+<br>
+
+<p align="center">
   <img src="https://github.com/Hecos-Project/.github/blob/main/profile/005_HecosChat_Direct_ControlRoom_integrata.png" width="800">
   <br>
   <em><strong>Integrated Control Room:</strong> Monitor system hardware, active AI flows, and agent statuses without leaving the chat.</em>
@@ -90,7 +98,15 @@ Hecos operates primarily through its advanced WebUI — a sophisticated interfac
 
 <br>
 
-**Want to see more?** For a complete visual tour of all the interface components, including the Native File Manager and System Tray Dashboard, visit the official website:
+<p align="center">
+  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/Tray_Dashboard_002.png" width="800">
+  <br>
+  <em><strong>System Tray Dashboard:</strong> The foundational native control panel. Monitor live logs and connect your phone via QR code.</em>
+</p>
+
+<br>
+
+**Want to see more?** For a complete visual tour of all the interface components, including the Native File Manager, visit the official website:
 
 👉 **[Take the full WebUI Tour (hecos-project.github.io/tour.html)](https://hecos-project.github.io/tour.html)**
 
