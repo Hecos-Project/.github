@@ -54,6 +54,48 @@ You can hot-swap these personas at any time, changing not just the voice and ton
 
 ---
 
+### 🖥️ The Hecos WebUI Overview
+
+Hecos operates primarily through its advanced WebUI — a sophisticated interface elegantly divided into five main pillars: the **System Icontray**, the **Chat**, the **Central Hub**, the **Control Room**, and **Hecos Drive**. Here is a sneak peek of the platform in action:
+
+<p align="center">
+  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/003_HecosChat_001.png" width="800">
+  <br>
+  <em><strong>The Chat:</strong> Your primary interaction point, complete with sidebar controls and fast persona switching.</em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/005_HecosChat_Direct_ControlRoom_integrata.png" width="800">
+  <br>
+  <em><strong>Integrated Control Room:</strong> Monitor system hardware, active AI flows, and agent statuses without leaving the chat.</em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/008_HecosCentralHub_002.png" width="800">
+  <br>
+  <em><strong>Central Hub:</strong> The nerve center. Configure every aspect of your local AI, from text-to-speech to custom module routing.</em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/012_Hecos_Flows_003.png" width="800">
+  <br>
+  <em><strong>Flows Engine:</strong> Build complex, interactive automations and multi-step tasks using the visual drag-and-drop canvas.</em>
+</p>
+
+<br>
+
+**Want to see more?** For a complete visual tour of all the interface components, including the Native File Manager and System Tray Dashboard, visit the official website:
+
+👉 **[Take the full WebUI Tour (hecos-project.github.io/tour.html)](https://hecos-project.github.io/tour.html)**
+
+---
+
 ### 🛠️ Project Status
 
 Hecos is currently in beta release. The core architecture is stable, the **HPM ecosystem** is actively expanding, and the Flows automation engine is production-ready.
