@@ -1,5 +1,8 @@
 # 🌌 Hecos | The Soul of Private, Modular Intelligence
 
+**The Native Modular AI Operating Layer — Privacy · Speed · Simplicity**
+*Hecos lives on your computer. Your memories, your data, your privacy remain on your computer.*
+
 <p align="center">
 <img src="https://github.com/Hecos-Project/.github/blob/main/profile/Urania_9800_Logo.png" width="600">
 </p>
@@ -35,6 +38,7 @@ At its heart lies the **Hecos Package Manager (HPM)**, a centralized architectur
 * **⚡ Direct Commands** — Trigger any system action instantly with a keyword command, no AI reasoning required. Fast, predictable, offline-first.
 * **🔀 Flows Automation Engine** — A visual node-based editor for building complex multi-step automations: schedules, triggers, conditions, and AI-powered steps — all in one canvas.
 * **📦 8-Layer Modular Ecosystem (HPM)** — Drag & drop standalone `.hpkg` bundles to instantly expand the system. Hecos supports an 8-layer architecture where everything is a module: **Core Modules, Plugins, Autonomous Apps, Dashboard Widgets, UI Themes, Skill Packs, Personas, and MCP Servers**.
+* **🔑 Universal Backend & Key Manager** — Use local models or connect to cloud providers. Even in the cloud, work freely and securely with the built-in Key Manager that handles multiple API keys for each provider.
 * **🌐 Universal Tool Hub (MCP)** — Connect to any Model Context Protocol server for instant access to remote databases, APIs, and external toolkits.
 * **📋 Lists, Alarms & Reminders** — Native time orchestration fully integrated with voice pipelines and the automation engine.
 * **🔒 Local-first & Privacy-sovereign** — Runs entirely on your machine with local LLMs (Ollama/Kobold). Cloud providers available when you want extra power.
