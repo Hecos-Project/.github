@@ -1,8 +1,8 @@
-# 🌌 Hecos | The Soul of Private, Modular Intelligence
+# 🌌 Hecos — Helping Companion System | The Soul of Private, Modular Intelligence
 
 **The Native Modular AI Operating Layer — Privacy · Speed · Simplicity**
 
-*Hecos — Helping Companion System lives on your computer. Your memories, your data, your privacy remain on your computer.*[cite: 1]
+*Hecos lives on your computer. Your memories, your data, your privacy remain on your computer.*[cite: 1]
 
 <p align="center">
 <img src="https://github.com/Hecos-Project/.github/blob/main/profile/Urania_9800_Logo.png" width="600">
