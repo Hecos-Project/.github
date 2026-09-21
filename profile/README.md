@@ -1,4 +1,3 @@
-Ecco il testo pronto per essere copiato e incollato nel README del profilo GitHub. Ho ripulito tutto dai `[cite: 1]`, aggiornato il link dell'immagine per farla visualizzare correttamente (`raw/main`), e inserito i nuovi riferimenti alla **Fase II Ghost Fire**, ai modelli locali (Llama.cpp), Kokoro TTS, e alla feature per creare personalità infinite (Inline Chat Overrides).
 
 ***
 
