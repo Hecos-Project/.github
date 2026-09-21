@@ -1,7 +1,3 @@
-
-***
-
-```markdown
 # 🌌 Hecos — Helping Companion System | The Soul of Private, Modular Intelligence
 
 **The Native Modular AI Operating Layer — Privacy · Speed · Simplicity**
@@ -164,4 +160,3 @@ Hecos is currently in **Phase II: Ghost Fire (v0.50.0)**. The core distributed a
 * **License:** AGPL v3
 
 > *"The future isn't just automated. It's yours."*
-```
