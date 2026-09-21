@@ -16,7 +16,7 @@
 
 <p align="center">
   🛠️ <strong>Under the Hood (For Developers & Power Users):</strong><br>
-  Starting from <code>v0.50.0</code> and beyond (Codename: <strong>Phase II Ghost Fire</strong>), Hecos has evolved into a fully fledged, distributed modular platform. The ecosystem features a decoupled <strong>Client-Server architecture</strong> consisting of a headless CLI Core (the backend server) and an advanced WebUI (the client). The system synchronizes an interactive Chat view, a real-time <strong>Control Room</strong> powered by live telemetry widgets, and <strong>Hecos Flows</strong>—a visual automation engine that executes workflows with or without LLM overhead. <br><br>
+  Starting from <code>v0.51.0</code> and beyond (Codename: <strong>Phase II Ghost Fire</strong>), Hecos has evolved into a fully fledged, distributed modular platform. The ecosystem features a decoupled <strong>Client-Server architecture</strong> consisting of a headless CLI Core (the backend server) and an advanced WebUI (the client). The system synchronizes an interactive Chat view, a real-time <strong>Control Room</strong> powered by live telemetry widgets, and <strong>Hecos Flows</strong>—a visual automation engine that executes workflows with or without LLM overhead. <br><br>
   Infrastructure utilities include a unified configuration panel (<strong>Central Hub</strong>), a secure remote file manager, an integrated proxy routing system, granular <strong>Direct Commands</strong>, dynamic Voice/VAD pipelines, and a centralized backup engine. Extensions are handled natively through the <strong>Hecos Package Manager (HPM)</strong>, fetching standalone <code>.hpkg</code> components (including PC/Browser Automation, Messenger bridges, Mail clients, and RAG Semantic Memory vaults) directly from the newly integrated <strong>Hecos Store</strong>.
 </p>
 
@@ -145,7 +145,7 @@ Hecos is designed to grow with you. Thanks to the **Hecos Package Manager (HPM)*
 
 ### 🛠️ Project Status
 
-From **v0.50.0** onwards, Hecos operates under the codename **Phase II: Ghost Fire**. The core distributed architecture is stable, the **HPM ecosystem** is actively expanding with modular packages, and the visual Flows automation engine is ready for deployment.
+From **v0.51.0** onwards, Hecos operates under the codename **Phase II: Ghost Fire**. The core distributed architecture is stable, the **HPM ecosystem** is actively expanding with modular packages, and the visual Flows automation engine is ready for deployment.
 
 ---
 
