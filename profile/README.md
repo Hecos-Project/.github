@@ -4,6 +4,9 @@
 
 *Hecos lives on your computer. Your memories, your data, your privacy remain on your computer.*
 
+> ### ⚡ Core Motto
+> **"Zero moral filters. Zero social bias. Zero political agendas. From the core engine to every single module, Hecos is built on one unshakeable rule: freedom of thought belongs to everyone."**
+
 <p align="center">
 <img src="https://github.com/Hecos-Project/Hecos-Assets/raw/main/Hecos%20CodeName%20Ghost%20Fire.jpg" width="600">
 </p>
@@ -35,6 +38,7 @@ Hecos was not created for abstract labels like "Digital Sovereignty" or "Soverei
 
 ### 🚀 Key Capabilities
 
+* **🕊️ Freedom of Thought** — Zero moral filters, zero social bias, zero political agendas. Complete freedom of expression and cognitive exploration across the entire stack.
 * **🗣️ Natural Conversation & Voice** — Talk to Hecos like a person. It understands context, remembers your preferences, and responds with low-latency real-time text-to-speech (featuring both Kokoro TTS and Piper TTS for natural, high-fidelity local voice generation).
 * **📢 Presenter & Playbooks (Training, Coach, Roleplay)** — A real-time narrative and live commentary engine natively integrated into the Core. Paired with installable **Playbook modules**, Hecos transforms into a versatile interactive personal coach, guided training system, roleplay engine, language learning mentor, and step-by-step procedural companion.
 * **🌐 Global Presets (Soul Profiles) & Inline Chat Overrides** — Freely combine AI personalities, TTS voices, inference parameters, and LLM backends into cohesive master profiles. Hot-swap models, personas, and voices on the fly directly inside the chat interface.
