@@ -1,172 +1,227 @@
-# 🌌 Hecos — Helping Companion System | The Soul of Private, Modular Intelligence
+<p align="center">
+  🌐 <strong>English</strong> ·
+  <a href="https://github.com/Hecos-Project/.github/blob/main/profile/README_ITA.md">🇮🇹 Italiano</a> ·
+  <a href="https://github.com/Hecos-Project/.github/blob/main/profile/README_ESP.md">🇪🇸 Español</a>
+</p>
 
-**The Native Modular AI Operating Layer — Privacy · Speed · Simplicity**
+<h1 align="center">🌌 Hecos — Helping Companion System</h1>
 
-*Hecos lives on your computer. Your memories, your data, your privacy remain on your computer.*
+<p align="center">
+  <strong>The Soul of Private, Modular Intelligence · Privacy · Speed · Simplicity</strong><br>
+  <em>Hecos lives on your computer. Your memories, your voice, your creations, and your privacy stay with you.</em>
+</p>
+
+<p align="center">
+  <a href="https://hecos-project.github.io">🌐 Website</a> ·
+  <a href="https://hecos-project.github.io/store/index.html">🛍️ Hecos Store</a> ·
+  <a href="https://hecos-project.github.io/tour.html">🖥️ WebUI Tour</a> ·
+  <a href="https://github.com/Hecos-Project/Hecos-Tray">🚀 Download (Hecos Tray)</a> ·
+  <a href="https://github.com/Hecos-Project/Hecos">🧠 Hecos Core</a> ·
+  <a href="https://github.com/Hecos-Project/Hecos/wiki/00_introduction_en">📖 Wiki</a> ·
+  <a href="https://www.youtube.com/@Hecos-Project">📺 YouTube</a>
+</p>
 
 > ### ⚡ Core Motto
 > **"Zero moral filters. Zero social bias. Zero political agendas. From the core engine to every single module, Hecos is built on one unshakeable rule: freedom of thought belongs to everyone."**
 
 <p align="center">
-<img src="https://github.com/Hecos-Project/Hecos-Assets/raw/main/Hecos%20CodeName%20Ghost%20Fire.jpg" width="600">
+  <img src="https://github.com/Hecos-Project/Hecos-Assets/raw/main/Hecos%20CodeName%20Ghost%20Fire.jpg" width="600" alt="Hecos — Phase II: Ghost Fire">
 </p>
 
 <p align="center">
-  <strong>💡 Hecos is your everyday companion.</strong><br>
-  Talk to it, command it, or let it run on its own — it manages your computer, sends messages, automates workflows, and switches personality to act as a butler, a friend, or whatever you need.<br>
-  <em>No AI required: Hecos works just as well through automation flows and direct commands.</em>
+  <strong>💡 Not a chatbot. A living everyday companion on your machine.</strong><br>
+  Talk to it by voice or text, plan complex creative or technical projects together, automate your desktop, or let it work quietly in the background — switching personality at will from a warm friend to a crisp butler, a creative director, or a focused coach.<br>
+  <em>And no AI is required when you don't want it: Hecos runs just as effortlessly through visual automation flows and instant zero-latency commands.</em>
 </p>
 
 <p align="center">
-  🛠️ <strong>Under the Hood (For Developers & Power Users):</strong><br>
-  Now advancing at <code>v0.55.0</code> (Codename: <strong>Phase II Ghost Fire</strong>), Hecos has evolved into a fully fledged, distributed modular platform. The ecosystem features a decoupled <strong>Client-Server architecture</strong> consisting of a headless CLI Core (the backend server) and an advanced WebUI (the client). The system synchronizes an interactive Chat view, a unified <strong>Preset Manager</strong> (with searchable presets and granular tool selection), a real-time <strong>Control Room</strong> powered by live telemetry widgets, and <strong>Hecos Flows</strong>—a visual automation engine that executes workflows with or without LLM overhead.<br><br>
-  Infrastructure utilities include a unified configuration panel (<strong>Central Hub</strong>), an integrated <strong>Presenter</strong> engine for real-time live commentary and voice briefings, a secure remote file manager (<strong>Hecos Drive</strong>), an optional modular software development suite (<strong>Hecos Coder</strong> &amp; <strong>Workspace Runner</strong>), an integrated proxy routing system, granular <strong>Direct Commands</strong>, dynamic Voice/VAD pipelines, and a centralized backup engine. Modules and extensions are handled natively through the unified <strong>Hecos Module Manager</strong> (powered by HPM), managing Core System modules and fetching installable <code>.hpkg</code> packages (including PC/Browser Automation, Hecos Coder, Net Search, Messenger bridges, Mail clients, Playbooks, and RAG Semantic Memory vaults) directly from the integrated <strong>Hecos Store</strong>.
+  <sub>
+    <strong>Quick Jump:</strong>
+    <a href="#personas">🎭 Personas &amp; Voice</a> ·
+    <a href="#capabilities">✨ Capabilities</a> ·
+    <a href="#store">🛍️ Hecos Store</a> ·
+    <a href="#visual-tour">🖥️ Visual Tour</a> ·
+    <a href="#philosophy">💡 Philosophy</a> ·
+    <a href="#ecosystem">🧭 Ecosystem &amp; Links</a>
+  </sub>
 </p>
 
 ---
 
-### 🏛️ What is Hecos?
+<a id="personas"></a>
 
-Hecos is a **modular AI Operating Layer** — not a chatbot, not a simple agent. It is a full-stack platform that bridges natural language, desktop automation, and scheduled workflows into a single, unified system using a robust Client-Server design.
+### 🎭 The Soul of the Machine: Personalities & Living Voice
 
-At its heart lies the **Hecos Module Manager** (powered by **HPM — Hecos Package Manager**), a centralized architecture that organizes your **Package Library**, **Core System**, **Widget Layout**, and **Store** into a single cohesive hub, making the platform infinitely extensible without bloating the core. You can interact with it by voice or text, trigger actions manually through **Direct Commands**, build complex pipelines with the visual **Flows Engine**, or simply let it run in the background.
+Most AI tools feel cold, uniform, and disposable. **Hecos is built to have presence.**
 
-#### 💡 Our Philosophy
-Hecos was not created for abstract labels like "Digital Sovereignty" or "Sovereign AI"—concepts that hold no weight in a technological landscape destined to evolve radically into completely different forms. Digital technology is merely a current tool, not the final destination. Furthermore, traditional analog technology should not be discarded; both analog and digital mediums possess unique, valuable advantages. Hecos is built upon a single, core mission: **to improve human life**, regardless of whether the driving technology is digital, analog, or a more advanced evolution yet to come.
+Its native **Personality Switching** lets you change not just tone and wording, but the entire character, role, and voice of your system in an instant. Open the **Preset Manager (`F3`)** directly inside the chat to swap AI model, persona, voice, thinking mode, and active tools on the fly—either as a live draft for the current conversation or saved as a reusable Global Preset.
+
+<p align="center">
+  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/Urania_9800_Logo_2.png" width="600" alt="Urania 9800 — Official Hecos Mascot">
+  <br>
+  <em><strong>Urania 9800</strong> — the official Hecos mascot and your lively, empathetic everyday companion.</em>
+</p>
+
+**Ready out of the box** (with even more personas available on the [Hecos Store](https://hecos-project.github.io/store/index.html), including *Motoko Kusanagi*, *Teacher*, and *Presenter* editions):
+
+| Persona | Character & Role |
+| :--- | :--- |
+| ✨ **Urania 9800** | The lively official mascot — warm, empathetic, playful, and natural for everyday conversation. |
+| 🎩 **Sebastian Pro** | The quintessential British-style butler — polite, composed, proactive, and relentlessly efficient. |
+| 🛡️ **Atlas** | An imposing, authoritative digital guardian built for focus and command. |
+| 🤖 **Nova X-01** | Crisp, analytical, and purely logical for structured technical dialogue. |
+| ⚙️ **Hecos System Soul** | Neutral, clean, and direct — ideal for raw execution and zero-fluff automation. |
+
+#### 🎙️ Voices That Feel Truly Alive — 100% Local
+Hecos pairs every persona with a **Neural Voice Matrix** running directly on your hardware:
+* **Voice Forge Studio** — sculpt, analyze (Formants, Spectrogram, Radar vocal profile), and blend custom voices in real time.
+* **4 Local Neural TTS Engines** — including **Fish Speech** zero-shot instant voice cloning, **Kokoro** (with built-in voice cloning manager), **Piper**, and **XTTS v2**, so Hecos speaks back with ultra-low latency and zero cloud streaming.
 
 ---
 
-### 🚀 Key Capabilities
+<a id="capabilities"></a>
 
-* **🕊️ Freedom of Thought** — Zero moral filters, zero social bias, zero political agendas. Complete freedom of expression and cognitive exploration across the entire stack.
-* **🗣️ Natural Conversation & Neural Voice Matrix** — Talk to Hecos like a person. It understands context, remembers your preferences, and responds with low-latency real-time speech synthesis across 4 local neural engines (Kokoro, Piper, Fish Speech S2-Pro, and XTTS v2) plus **Voice Forge Studio**.
-* **📡 Presenter & Playbooks (Training, Coach, Roleplay)** — A real-time narrative and live commentary engine natively integrated into the Core. Paired with installable **Playbook modules**, Hecos transforms into a versatile interactive personal coach, guided training system, roleplay engine, language learning mentor, and step-by-step procedural companion.
-* **🎚️ Preset Manager & Global Presets (`F3`)** — Assemble, search, and switch complete system snapshots combining LLM backends, models, personas, inference parameters, and TTS voices. Includes a searchable preset selector with creation/usage telemetry, instant live session drafts, **Enable Thinking** control, and **Granular Tool Selection** with real-time token-budget estimation.
-* **💻 Hecos Coder & Workspace Runner (Modular `system_app`)** — Dedicated software development suite (`coder`) featuring an interactive **Workspace Runner**, embedded **Monaco Workspace Explorer**, isolated **Aider Sidecar**, Tree-Sitter AST Repository Map, non-destructive Git checkpoints, OS process watchdog, and native Windows CLI terminals—kept cleanly out of the way for non-developer users.
-* **🧠 RAG Semantic Memory Vaults** — Native vector-based semantic memory (ONNX FastEmbed & LanceDB) allowing the system to securely store, recall, and contextualize interactions permanently with per-user vault isolation.
-* **🤖 PC & Browser Automation** — Execute deep operating system bridging and browser control execution loops to handle tasks, extract web data, and script actions natively.
-* **🔌 Messenger & Mail Integrations** — Multi-network messenger bridges and mail orchestration tools to coordinate incoming/outgoing communications natively.
-* **⚡ Direct Commands (HDCS)** — Trigger 150+ native system actions instantly with a keyword command, bypassing the AI reasoning loop completely. Fast, predictable, and 100% offline-first.
-* **🔀 Flows Automation Engine** — A visual drag-and-drop node-based canvas for building complex multi-step automations: schedules, triggers, conditions, and AI-powered steps — all in one unified workspace.
-* **📦 Unified Module Manager (HPM)** — An 8-layer modular ecosystem with Pydantic+TOML manifests, Ed25519 cryptographic integrity verification (`/verify`), Lazy Load control, and sub-process sandbox isolation.
-* **🔑 Universal Backend & Key Manager** — Seamlessly switch between local backends (Ollama, Llama.cpp, KoboldCpp via LiteLLM) and cloud providers, backed by a robust multi-key credential vault.
-* **🌐 Universal Tool Hub (MCP Bridge)** — Native support for the Model Context Protocol to connect with thousands of external tools, databases, and APIs.
-* **📋 Lists, Alarms & Reminders** — Native time orchestration fully integrated with voice pipelines and active desktop notifications.
-* **🔒 3-Tier Privacy Architecture** — Operates entirely on your hardware with Normal, Auto-Wipe (RAM-only store, cleared on exit), and Incognito (zero-trace) privacy modes.
+### ✨ What You Can Do with Hecos
 
----
+#### 📋 Multimodal Action Plans — *Think First, Create Without Friction*
+One of Hecos's signature innovations: instead of rushing blindly into complex tasks, turn on **`Plan First`** (or type `/plan`) and co-design a structured **Blueprint** (`v1`, `v2`…) before a single tool runs. Once approved, click **`Execute Plan`** (or step through manually with **`Next Step`**) and watch Hecos orchestrate the entire workflow across any domain:
+* 💻 **Software Engineering** — multi-file architectural plans executed through **Hecos Coder**.
+* 📸 **Photo Shoots & Storyboards** — coherent multi-shot visual sequences directed by **Hecos Storyboard & Photo Director** + **Image Generation**, keeping character identity, lighting, and continuity intact from shot to shot.
+* 🗺️ **Research, Travel & Daily Workflows** — deep web synthesis, structured dossiers, itineraries, and checklists powered by **Hecos Action Planner**.
 
-### 🎭 The Soul of the Machine: Infinite Personalities & Native Personas
+Every plan supports live editing, **`Run with Preset`** model switching, automatic checkpoint recovery (**AgentResume**), a draggable floating card or **multi-monitor Pop-out Viewer**, automatic Markdown mirroring in your media library, and clean one-click Export/Import (`.md`, printable lossless `.html`, `.yaml`, `.json`).
+👉 [Read the Multimodal Action Plans Guide](https://github.com/Hecos-Project/Hecos/wiki/29_action_plans_en)
 
-A fundamental capability of Hecos is its native **Personality Switching**. Hecos isn't just a cold, rigid assistant — it adapts its behavior, tone, and character based on the persona you load. Each persona is programmed to act differently and fulfill a unique role in your daily life.
+#### 📡 Presenter & Playbooks — *Live Coach, Tutor & Roleplay*
+The built-in **Presenter** brings real-time narrative commentary and voice briefings straight into your workspace. Pair it with installable **Playbook** modules and Hecos becomes an interactive **personal coach, foreign language tutor, procedural training simulator, or immersive roleplay narrator**.
 
-Through the **Preset Manager (`F3`)**, you can calibrate the AI Model, Persona, Voice, and Payload tools directly within the chat interface on the fly—either as an instant live draft for the current conversation or saved as a reusable Global Preset.
+#### 🎨 Local Creativity & Private Semantic Memory
+* **Image Generation & Flux Prompt Studio** — generate artwork locally with real-time prompt crafting and automatic metadata sidecars (prompt, seed, sampler).
+* **Documents, Media & Sight** — create and inspect documents, control your local library via **Hecos Media Player**, and connect your webcam when needed.
+* **Private RAG Memory Vaults** — vector semantic memory isolated per user profile, so Hecos genuinely remembers your projects, notes, and preferences without ever sending a byte to third-party servers.
 
-<p align="center">
-  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/Urania_9800_Logo_2.png" width="600">
-  <br>
-  <em>Urania 9800, the official Hecos Mascot and your everyday friendly companion.</em>
-</p>
+#### ⚡ Real Automation — With or Without AI
+* **Hecos Flows** — a visual drag-and-drop node canvas to chain schedules, triggers, conditions, desktop actions, and optional AI steps.
+* **Direct Commands (HDCS)** — type `/` in chat (or press `Ctrl+Alt+Space` globally) to fire **150+ native commands** with zero latency, bypassing the AI completely.
+* **Connected to Your Real World** — PC & Browser Automation, Mail, Messenger bridges, Calendar, Lists, Alarms, Reminders, and **Hecos Drive** (built-in dual-panel file manager & editor).
 
-Out of the box, Hecos includes several pre-configured personalities:
-* **Hecos System Soul** — The neutral, rigid, and detached core system. Perfect for raw automation and precise tasks.
-* **Urania 9800** — The lively mascot. A true, everyday friend designed for casual, empathetic, and cheerful interaction.
-* **Sebastian Pro** — The perfect, highly professional British-style butler. Polite, efficient, and eager to serve.
-* **Atlas** — The imposing, authoritative digital guardian.
-* **Nova X-01** — A precise, analytical robotic entity for those who prefer purely logical interactions.
+#### 💻 Hecos Coder — *Power When You Code, Invisible When You Don't*
+Need a full local software-engineering cockpit? Enable the optional **Hecos Coder** module (`system_app`) to unlock an interactive **Workspace Runner**, embedded **Monaco Editor**, **Aider Sidecar**, AST Repository Map, non-destructive Git checkpoints, and native Windows terminals. Not a developer? Leave it disabled and your interface stays completely clean and uncluttered.
 
-You can hot-swap these personas at any time, changing not just the voice and tone, but the very "soul" of the system.
+#### 🔒 Freedom of Model & 3-Tier Privacy
+Switch effortlessly between **local AI backends** (*Ollama*, *Llama.cpp*, *KoboldCpp*) and **cloud providers** whenever you choose—and pick the exact privacy posture for every session:
+* **Normal** — persistent local history and isolated semantic memory.
+* **Auto-Wipe** — RAM-only session cleared automatically on exit.
+* **Incognito** — strict zero-trace mode.
 
 ---
 
-### 🖥️ The Hecos WebUI Overview
+<a id="store"></a>
 
-Hecos operates primarily through its advanced WebUI — a sophisticated interface elegantly divided into main operational pillars: the **System Icontray**, the **Chat** (with **Preset Manager** & **Presenter**), the **Central Hub** (with **Module Manager**), the **Control Room**, **Hecos Drive**, **Hecos Flows**, and optional System Apps such as **Net Search** and **Hecos Coder (Workspace Runner)**. Here is a sneak peek of the platform in action:
+### 🛍️ The Hecos Store & Modular Ecosystem
 
-<p align="center">
-  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/003_HecosChat_001.png" width="800">
-  <br>
-  <em><strong>The Chat:</strong> Your primary interaction point, complete with sidebar controls, Preset Manager, and fast persona switching.</em>
-</p>
+Hecos is not a bloated monolith—it is a sleek core surrounded by a living, extensible universe managed through the **Hecos Module Manager (HPM)**. Install signed `.hpkg` packages in one click directly from the integrated **Hecos Store**, or connect thousands of external tools via the built-in **MCP Bridge (Model Context Protocol)**.
 
-<br>
+| Store Category | What It Adds to Hecos | Real Examples in the Store |
+| :--- | :--- | :--- |
+| 🖥️ **System Apps** | Full integrated workspaces inside the WebUI | *Hecos Coder*, *Flows*, *Hecos Drive*, *Net Search*, *Builder Studio* |
+| 🧩 **Plugins** | Tools and superpowers the AI (or you) can invoke | *Image Generation*, *Mail*, *Messenger*, *Document Maker & Reader*, *Media Player*, *Remote Access Pro*, *Weather Pro*, *Webcam* |
+| 📱 **Autonomous Apps** | Standalone daily productivity suites | *Calendar*, *Lists Manager*, *Reminder* |
+| 🎭 **Personas** | New characters, behavioral souls, and voices | *Urania 9800*, *Sebastian Pro*, *Motoko Kusanagi*, *Atlas*, *Nova X-01*, *Teacher & Presenter packs* |
+| 📚 **Playbooks** | Interactive training, coaching & roleplay worlds | *Guided coaching packs*, *Interactive story & roleplay modules* |
+| ⚙️ **Core Modules** | Deep system & automation capabilities | *PC Automation*, *Browser Automation*, *MCP Bridge*, *Global Backup*, *Sys Net* |
+| 📊 **Widgets & Themes** | Live Control Room cards & curated visual styles | *System Telemetry*, *Voice Visualizer*, *Webcam Feed*, *Quick Links*, *Themes Pack* |
 
-<p align="center">
-  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/004_HecosChat_Direct_Commands.png" width="800">
-  <br>
-  <em><strong>Direct Commands:</strong> Bypass the AI completely. Use slash commands like `/hpm search` to trigger actions with zero latency.</em>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/005_HecosChat_Direct_ControlRoom_integrata.png" width="800">
-  <br>
-  <em><strong>Integrated Control Room:</strong> Monitor system hardware, active AI flows, and agent statuses via live telemetry widgets.</em>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/008_HecosCentralHub_002.png" width="800">
-  <br>
-  <em><strong>Central Hub:</strong> The nerve center. Configure every aspect of your local AI, from text-to-speech to custom module routing.</em>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/012_Hecos_Flows_003.png" width="800">
-  <br>
-  <em><strong>Flows Engine:</strong> Build complex, interactive automations and multi-step tasks using the visual drag-and-drop canvas.</em>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/Hecos-Project/.github/blob/main/profile/Tray_Dashboard_002.png" width="800">
-  <br>
-  <em><strong>System Tray Dashboard:</strong> The foundational native control panel. Monitor live logs, create centralized backups, and connect your phone via QR code.</em>
-</p>
-
-<br>
-
-**Want to see more?** For a complete visual tour of all the interface components, including the Native File Manager, visit the official website:
-
-👉 **[Take the full WebUI Tour (hecos-project.github.io/tour.html)](https://hecos-project.github.io/tour.html)**
+👉 **[Browse the Official Hecos Store (45+ Signed Modules)](https://hecos-project.github.io/store/index.html)** · **[Explore Hecos Packages Source & Builder](https://github.com/Hecos-Project/Hecos-Packages)**
 
 ---
 
-### 🛍️ The Hecos Store & Module Manager
+<a id="visual-tour"></a>
 
-Hecos is designed to grow with you. Through the **Hecos Module Manager** (powered by **HPM**), the system is infinitely expandable via signed modular packages (`.hpkg`). In Hecos, plugins are only one part of the picture—the store hosts a rich variety of **installable modules** across all architectural layers:
+### 🖥️ Inside Hecos: A Visual Sneak Peek
 
-* **🧩 Plugins & System Apps:** Deep hardware access, OS automation, browser scripting, software development (**Hecos Coder**), uncensored web retrieval (**Net Search**), image generation, messenger bridges, and system tooling.
-* **📱 Autonomous Apps:** Full standalone web applications and productivity suites running entirely locally within Hecos.
-* **⚙️ Core Modules & Libraries:** Extensible foundational components, shared backend libraries, and utility runtimes.
-* **🎭 Personas & Soul Matrices:** New AI behavioral models, custom system prompts, and distinctive characters with curated voice profiles.
-* **📚 Playbooks (Training, Coach & Roleplay):** Interactive instructional guides, training simulations, language tutors, coaching workflows, and scenario roleplays powered by the Presenter engine.
-* **📊 Control Room Widgets:** Real-time monitoring cards, telemetry displays, quick-control toggles, and dashboard components.
-* **🎨 UI Themes:** Curated aesthetic styles, custom palettes, and interface enhancements.
-* **⚡ Skill Packs & MCP Servers:** Extra slash commands and universal tool bridges connecting to external APIs and protocols.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/Hecos-Project/.github/blob/main/profile/003_HecosChat_001.png" width="100%" alt="Hecos Chat Interface"><br>
+      <sub><strong>The Chat:</strong> Conversational workspace with live Persona switching, Preset Manager, and Multimodal Action Plans.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/Hecos-Project/.github/blob/main/profile/004_HecosChat_Direct_Commands.png" width="100%" alt="Direct Commands"><br>
+      <sub><strong>Direct Commands (/):</strong> Bypass the AI completely — trigger 150+ instant system actions with zero latency.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/Hecos-Project/.github/blob/main/profile/005_HecosChat_Direct_ControlRoom_integrata.png" width="100%" alt="Integrated Control Room"><br>
+      <sub><strong>Integrated Control Room:</strong> Live telemetry widgets, hardware monitors, and active agents right alongside your chat.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/Hecos-Project/.github/blob/main/profile/008_HecosCentralHub_002.png" width="100%" alt="Central Hub"><br>
+      <sub><strong>Central Hub:</strong> Unified control center for models, voices, privacy, HPM packages, and MCP tool bridges.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/Hecos-Project/.github/blob/main/profile/012_Hecos_Flows_003.png" width="100%" alt="Hecos Flows"><br>
+      <sub><strong>Flows Engine:</strong> Visual drag-and-drop automation canvas combining triggers, scripts, and AI nodes.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/Hecos-Project/.github/blob/main/profile/Tray_Dashboard_002.png" width="100%" alt="System Tray Dashboard"><br>
+      <sub><strong>Hecos Tray Dashboard:</strong> Native desktop launcher with live logs, updates, backups, and mobile QR pairing.</sub>
+    </td>
+  </tr>
+</table>
 
-👉 **[Explore the Hecos Store (hecos-project.github.io/store/)](https://hecos-project.github.io/store/index.html)**
+<p align="center">
+  👉 <strong><a href="https://hecos-project.github.io/tour.html">Take the Full Interactive WebUI Tour (hecos-project.github.io/tour.html)</a></strong>
+</p>
 
 ---
 
-### 🛠️ Project Status
+<a id="philosophy"></a>
 
-Now at **v0.55.0** under the codename **Phase II: Ghost Fire**. The core distributed architecture is stable, the **Module Manager & HPM Store** ecosystem is actively expanding with signed `.hpkg` packages, the **Preset Manager** (with granular tool budgeting) and **Hecos Coder** development suite are live, and the **Presenter & Playbook** training engines and visual **Flows** automation engine are ready for deployment.
+### 💡 Our Philosophy
+
+Hecos was not created for abstract labels like *"Digital Sovereignty"* or *"Sovereign AI"*—concepts that hold little weight in a technological landscape destined to evolve radically into completely different forms. Digital technology is merely a current tool, not the final destination, and traditional analog mediums remain just as valuable. Hecos is built upon a single, pragmatic mission: **to improve human life**, regardless of whether the driving technology is digital, analog, or whatever evolution comes next.
+
+<details>
+<summary>🛠️ <strong>Under the Hood — Architecture & Technical Stack (v0.55.0 · Phase II: Ghost Fire)</strong></summary>
+
+<br>
+
+Currently at **`v0.55.0`** (*Phase II: Ghost Fire*, primary target **Windows 11**), Hecos runs on a decoupled **Client-Server architecture** pairing a headless Python Core with a responsive desktop/mobile WebUI:
+
+* **8-Layer Modular Architecture (HPM 0.40):** Pydantic + TOML manifests, strict SemVer resolution, **Ed25519 cryptographic integrity verification (`/verify`)**, Lazy Load control, and **Hecos SDK** subprocess/venv isolation to eliminate dependency conflicts.
+* **Universal Inference & Tooling:** Powered by **LiteLLM** (Ollama, Llama.cpp, KoboldCpp, and major cloud providers), granular per-turn tool budgeting with live token estimation, **Deep MCP Discovery** (Smithery, MCPSkills, GitHub), and **External Dependency Manager (EDM)**.
+* **Local Memory & Voice Stack:** CPU-native vector RAG via **ONNX FastEmbed + LanceDB** with per-user vault isolation; unified TTS caching across **Fish Speech S2-Pro**, **Kokoro**, **Piper**, and **XTTS v2** + **Voice Forge Studio**.
+* **Security & Transport:** Self-signed **Hecos PKI (HTTPS)** Root CA for full green-lock local/LAN access, centralized backup engine, and integrated proxy routing.
+
+</details>
+
+---
+
+<a id="ecosystem"></a>
+
+### 🧭 Ecosystem Map & Get Started
+
+| Destination | What You'll Find | Link |
+| :--- | :--- | :--- |
+| 🚀 **Hecos Tray** | **Recommended way to start on Windows 11** — one-stop installer, launcher, live logs & updater | [Hecos-Project/Hecos-Tray](https://github.com/Hecos-Project/Hecos-Tray) |
+| 🧠 **Hecos Core** | Open-source Core engine & WebUI (`v0.55.0`) · README in [EN](https://github.com/Hecos-Project/Hecos/blob/main/README.md) · [IT](https://github.com/Hecos-Project/Hecos/blob/main/README_ITA.md) · [ES](https://github.com/Hecos-Project/Hecos/blob/main/README_ESP.md) | [Hecos-Project/Hecos](https://github.com/Hecos-Project/Hecos) |
+| 📦 **Hecos Packages** | Official `.hpkg` packages source repository & HPM Package Builder | [Hecos-Project/Hecos-Packages](https://github.com/Hecos-Project/Hecos-Packages) |
+| 🛍️ **Hecos Store** | Browse installable apps, plugins, personas, playbooks, widgets & themes | [hecos-project.github.io/store](https://hecos-project.github.io/store/index.html) |
+| 🌐 **Official Website** | Project home, [Features](https://hecos-project.github.io/features.html), [Visual Tour](https://hecos-project.github.io/tour.html), and [About](https://hecos-project.github.io/about.html) | [hecos-project.github.io](https://hecos-project.github.io) |
+| 📖 **Hecos Wiki** | Complete documentation in [English](https://github.com/Hecos-Project/Hecos/wiki/00_introduction_en) · [Italiano](https://github.com/Hecos-Project/Hecos/wiki/00_introduction_it) · [Español](https://github.com/Hecos-Project/Hecos/wiki/00_introduction_es) | [Hecos Wiki](https://github.com/Hecos-Project/Hecos/wiki) |
 
 ---
 
 ### 🤝 Join the Evolution
 
-We believe in open collaboration. Whether you are a developer, a designer, or a visionary, you are welcome in the Hecos ecosystem.
+We believe in open collaboration. Whether you are a creator, a developer, a designer, or simply someone curious about a freer way to live with technology, you are welcome in the Hecos ecosystem.
 
-* 🌐 **Website:** [hecos-project.github.io](https://hecos-project.github.io)
-* 📖 **Documentation:** [Hecos Wiki](https://github.com/Hecos-Project/Hecos/wiki)
-* 📺 **YouTube:** [@Hecos-Project](https://www.youtube.com/@Hecos-Project) — [https://www.youtube.com/@Hecos-Project](https://www.youtube.com/@Hecos-Project)
+* 📺 **YouTube:** [@Hecos-Project](https://www.youtube.com/@Hecos-Project)
+* 📦 **Latest Releases:** [GitHub Releases](https://github.com/Hecos-Project/Hecos/releases)
 * 📧 **Contact:** [hecos.project@gmail.com](mailto:hecos.project@gmail.com)
 * ⚖️ **License:** AGPL v3
 
