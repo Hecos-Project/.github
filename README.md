@@ -15,8 +15,9 @@
   <a href="https://hecos-project.github.io">🌐 Website</a> ·
   <a href="https://hecos-project.github.io/store/index.html">🛍️ Hecos Store</a> ·
   <a href="https://hecos-project.github.io/tour.html">🖥️ WebUI Tour</a> ·
-  <a href="https://github.com/Hecos-Project/Hecos-Tray">🚀 Download (Hecos Tray)</a> ·
+  <a href="#download">⚡ Download &amp; Install</a> ·
   <a href="https://github.com/Hecos-Project/Hecos">🧠 Hecos Core</a> ·
+  <a href="https://github.com/Hecos-Project/Hecos-Tray">🚀 Hecos Tray</a> ·
   <a href="https://github.com/Hecos-Project/Hecos/wiki/00_introduction_en">📖 Wiki</a> ·
   <a href="https://www.youtube.com/@Hecos-Project">📺 YouTube</a>
 </p>
@@ -37,6 +38,7 @@
 <p align="center">
   <sub>
     <strong>Quick Jump:</strong>
+    <a href="#download">⚡ Download &amp; Install</a> ·
     <a href="#personas">🎭 Personas &amp; Voice</a> ·
     <a href="#capabilities">✨ Capabilities</a> ·
     <a href="#store">🛍️ Hecos Store</a> ·
@@ -45,6 +47,48 @@
     <a href="#ecosystem">🧭 Ecosystem &amp; Links</a>
   </sub>
 </p>
+
+---
+
+<a id="download"></a>
+
+### ⚡ Download & Install Hecos — One Official Graphical Installer
+
+<p align="center">
+  <a href="https://github.com/Hecos-Project/Hecos/releases/latest/download/INSTALL_HECOS_WINDOWS.zip">
+    <img src="https://img.shields.io/badge/Download_Installer-Windows_(ZIP)-00e5ff?style=for-the-badge&logo=windows&logoColor=080a12" alt="Download Hecos Installer for Windows">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Hecos-Project/Hecos/releases/latest/download/INSTALL_HECOS_LINUX.zip">
+    <img src="https://img.shields.io/badge/Download_Installer-Linux_%2F_macOS_(ZIP)-5b7dff?style=for-the-badge&logo=linux&logoColor=white" alt="Download Hecos Installer for Linux and macOS">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Hecos-Project/Hecos/releases/latest">
+    <img src="https://img.shields.io/badge/All_Releases-GitHub-181c2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Releases">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Zero prerequisites — Python does NOT need to be installed beforehand.</strong><br>
+  The official 5-step graphical installer automatically provisions an isolated Portable Python 3.11 runtime (SHA256-verified), installs tested dependencies, links Core &harr; Tray, and lets you install Hecos on <strong>any drive or folder</strong>.
+</p>
+
+1. **Download & extract** the ZIP archive for your OS.
+2. **Windows:** double-click **`INSTALL_HECOS_WINDOWS.bat`** *(if Windows SmartScreen shows a notice, click **More info → Run anyway**)*.
+3. **Linux / macOS:** run **`bash INSTALL_HECOS_LINUX.sh`** *(or one-liner: `curl -fsSL https://raw.githubusercontent.com/Hecos-Project/Hecos/main/INSTALL_HECOS_LINUX.sh | bash`)*.
+4. Follow the **5-step graphical wizard**: pick **Hecos Complete (Core + Tray — Recommended)**, **Core Only**, or **Tray Only**, choose your folder, and click **Launch Hecos Now**.
+
+<details>
+<summary>💻 <strong>Alternative Install Options (CLI, Headless Servers &amp; Standalone Tray)</strong></summary>
+
+<br>
+
+* **CLI Installer & Diagnostics (`Doctor`):** `scripts/windows/setup/HECOS_SETUP_WIZARD.bat` or `scripts/linux/setup/HECOS_SETUP_WIZARD.sh` (supports `--unattended`, `--doctor`, `--gui`, and `Quick Repair`).
+* **Terminal Global Launcher (without Tray):** run `HECOS GLOBAL LAUNCHER.bat` / `HECOS GLOBAL LAUNCHER.sh` inside your Hecos folder to launch WebUI, Console, Coding Studio CLI, or Doctor.
+* **Standalone Tray Setup:** you can still install [Hecos-Tray](https://github.com/Hecos-Project/Hecos-Tray) independently via `HECOS_TRAY_SETUP.bat` / `.sh` — both installers share the same `install.toml` registry.
+* 📖 [Read the full Quick Start Guide](https://github.com/Hecos-Project/Hecos/wiki/01_quick_start_en)
+
+</details>
 
 ---
 
@@ -186,11 +230,11 @@ Hecos is not a bloated monolith—it is a sleek core surrounded by a living, ext
 Hecos was not created for abstract labels like *"Digital Sovereignty"* or *"Sovereign AI"*—concepts that hold little weight in a technological landscape destined to evolve radically into completely different forms. Digital technology is merely a current tool, not the final destination, and traditional analog mediums remain just as valuable. Hecos is built upon a single, pragmatic mission: **to improve human life**, regardless of whether the driving technology is digital, analog, or whatever evolution comes next.
 
 <details>
-<summary>🛠️ <strong>Under the Hood — Architecture & Technical Stack (v0.55.0 · Phase II: Ghost Fire)</strong></summary>
+<summary>🛠️ <strong>Under the Hood — Architecture & Technical Stack (v0.55.1 · Phase II: Ghost Fire)</strong></summary>
 
 <br>
 
-Currently at **`v0.55.0`** (*Phase II: Ghost Fire*, primary target **Windows 11**), Hecos runs on a decoupled **Client-Server architecture** pairing a headless Python Core with a responsive desktop/mobile WebUI:
+Currently at **`v0.55.1`** (*Phase II: Ghost Fire*, primary target **Windows 11**, with Linux/macOS scripts), Hecos runs on a decoupled **Client-Server architecture** pairing a headless Python Core with a responsive desktop/mobile WebUI:
 
 * **8-Layer Modular Architecture (HPM 0.40):** Pydantic + TOML manifests, strict SemVer resolution, **Ed25519 cryptographic integrity verification (`/verify`)**, Lazy Load control, and **Hecos SDK** subprocess/venv isolation to eliminate dependency conflicts.
 * **Universal Inference & Tooling:** Powered by **LiteLLM** (Ollama, Llama.cpp, KoboldCpp, and major cloud providers), granular per-turn tool budgeting with live token estimation, **Deep MCP Discovery** (Smithery, MCPSkills, GitHub), and **External Dependency Manager (EDM)**.
@@ -207,8 +251,9 @@ Currently at **`v0.55.0`** (*Phase II: Ghost Fire*, primary target **Windows 11*
 
 | Destination | What You'll Find | Link |
 | :--- | :--- | :--- |
-| 🚀 **Hecos Tray** | **Recommended way to start on Windows 11** — one-stop installer, launcher, live logs & updater | [Hecos-Project/Hecos-Tray](https://github.com/Hecos-Project/Hecos-Tray) |
-| 🧠 **Hecos Core** | Open-source Core engine & WebUI (`v0.55.0`) · README in [EN](https://github.com/Hecos-Project/Hecos/blob/main/README.md) · [IT](https://github.com/Hecos-Project/Hecos/blob/main/README_ITA.md) · [ES](https://github.com/Hecos-Project/Hecos/blob/main/README_ESP.md) | [Hecos-Project/Hecos](https://github.com/Hecos-Project/Hecos) |
+| ⚡ **Unified Installer** | **Recommended way to start** — 5-step graphical installer for Core + Tray, zero Python needed | [Windows ZIP](https://github.com/Hecos-Project/Hecos/releases/latest/download/INSTALL_HECOS_WINDOWS.zip) · [Linux/macOS ZIP](https://github.com/Hecos-Project/Hecos/releases/latest/download/INSTALL_HECOS_LINUX.zip) |
+| 🧠 **Hecos Core** | Open-source Core engine & WebUI (`v0.55.1`) · README in [EN](https://github.com/Hecos-Project/Hecos/blob/main/README.md) · [IT](https://github.com/Hecos-Project/Hecos/blob/main/README_ITA.md) · [ES](https://github.com/Hecos-Project/Hecos/blob/main/README_ESP.md) | [Hecos-Project/Hecos](https://github.com/Hecos-Project/Hecos) |
+| 🚀 **Hecos Tray** | Native system tray & Dashboard — one-click launcher, live logs, process manager & updater | [Hecos-Project/Hecos-Tray](https://github.com/Hecos-Project/Hecos-Tray) |
 | 📦 **Hecos Packages** | Official `.hpkg` packages source repository & HPM Package Builder | [Hecos-Project/Hecos-Packages](https://github.com/Hecos-Project/Hecos-Packages) |
 | 🛍️ **Hecos Store** | Browse installable apps, plugins, personas, playbooks, widgets & themes | [hecos-project.github.io/store](https://hecos-project.github.io/store/index.html) |
 | 🌐 **Official Website** | Project home, [Features](https://hecos-project.github.io/features.html), [Visual Tour](https://hecos-project.github.io/tour.html), and [About](https://hecos-project.github.io/about.html) | [hecos-project.github.io](https://hecos-project.github.io) |
